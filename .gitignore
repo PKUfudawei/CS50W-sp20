@@ -32,6 +32,7 @@ Temporary Items
 # Compiled Python files
 *.pyc
 __pychache__/
+__init__.py
 
 # Compiled C++ files
 *.out
